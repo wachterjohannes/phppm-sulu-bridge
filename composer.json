@@ -1,7 +1,8 @@
 {
     "name": "johannes/phppm-sulu-bridge",
     "require": {
-        "php-pm/php-pm": "dev-master"
+        "php-pm/php-pm": "dev-master",
+        "symfony/http-kernel": "2.6.*"
     },
     "authors": [
         {
