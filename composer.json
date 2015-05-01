@@ -9,5 +9,8 @@
             "email": "johannes.wachter@massiveart.at"
         }
     ],
+    "autoload": {
+        "psr-4": {"Sulu\\": "src/"}
+    },
     "minimum-stability": "dev"
 }
