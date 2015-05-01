@@ -1,0 +1,13 @@
+{
+    "name": "johannes/phppm-sulu-bridge",
+    "require": {
+        "php-pm/php-pm": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Johannes Wachter",
+            "email": "johannes.wachter@massiveart.at"
+        }
+    ],
+    "minimum-stability": "dev"
+}
